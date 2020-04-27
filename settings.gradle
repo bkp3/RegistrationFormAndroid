@@ -1,0 +1,2 @@
+rootProject.name='RegistrationFormAndroid'
+include ':app'
